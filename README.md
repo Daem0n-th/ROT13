@@ -1,2 +1,2 @@
 # ROT13
-Command line tool for ROT13 encoding implementd in haskell
+Command line tool for ROT13 encoding implemented in haskell
